@@ -14,6 +14,7 @@ export default {
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: [
+    '~/node_modules/npm-font-open-sans/open-sans',
     '~/assets/styles/main.css',
     // '@/node_modules/bootstrap/dist/css/bootstrap.min.css'
   ],
