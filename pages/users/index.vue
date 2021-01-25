@@ -1,0 +1,17 @@
+<template>
+<div>
+  <p>Please enter an id and click the button.</p>
+</div>
+</template>
+
+
+<script>
+export default {
+  layout: 'users',
+  components: {
+  },
+}
+</script>
+<style scoped>
+
+</style>
